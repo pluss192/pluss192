@@ -1,4 +1,4 @@
-# Hi there, I'm Pluscase 👋
+# Hi there, I'm Pluscase 
 
 ### 🚀 Full-Stack Engineer & Infrastructure Observability Builder
 I build real-time, event-driven web applications and distributed telemetry tools with modern full-stack architectures.
